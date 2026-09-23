@@ -356,7 +356,6 @@ M.launch=function()
 			'queenbeetLump':{
 				name:'Juicy queenbeet',
 				icon:18,
-				plantable:false,
 				cost:60*2,
 				costM:1000000000000,
 				ageTick:0.04,
